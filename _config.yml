@@ -1,0 +1,17 @@
+theme: jekyll-theme-cayman
+title: Awareness and Consciousness in Artificial Intelligence
+description: In conjunction with 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing, October 14-16, 2025, at Aalto University, Espoo, Finland.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+include:
+  - CONTRIBUTING.md
+  - index.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
