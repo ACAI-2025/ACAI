@@ -1,6 +1,3 @@
----
----
-
 @import "{{ site.theme }}";
 
 .badge {
@@ -14,11 +11,37 @@
   -moz-border-radius: 9px;
   border-radius: 9px;
 }
-.review {background-color: #159957;} /* full Green */
-.review:hover {background-color: #117A45;}
-.robotics {background-color: #157878;} /* mix Blue-Green */
-.robotics:hover {background-color: #116060;}
-.games {background-color: #155799;} /* full Blue */
-.games:hover {background-color: #11457A;}
-.all {background-color: #dce6f0; color: #606c71;} /* Gray */
-.all:hover {background-color: #B0B8C0; color: #606c71;}
+
+/* Combination of Green, White, and Gray */
+.review {
+  background-color: #6FA782; /* Soft green-gray */
+  color: #ffffff; /* White text for contrast */
+}
+.review:hover {
+  background-color: #5C8A68; /* Darker green-gray on hover */
+}
+
+.robotics {
+  background-color: #7E7E7E; /* Neutral gray */
+  color: #ffffff; /* White text for contrast */
+}
+.robotics:hover {
+  background-color: #696969; /* Darker neutral gray on hover */
+}
+
+.games {
+  background-color: #A9A9A9; /* Light gray */
+  color: #ffffff; /* White text for contrast */
+}
+.games:hover {
+  background-color: #8A8A8A; /* Darker light gray on hover */
+}
+
+.all {
+  background-color: #D3D3D3; /* Soft gray */
+  color: #000000; /* Black text for contrast */
+}
+.all:hover {
+  background-color: #B0B0B0; /* Slightly darker soft gray on hover */
+  color: #000000; /* Black text for contrast */
+}
