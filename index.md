@@ -46,9 +46,9 @@ We encourage submissions on a variety of topics, including but not limited to:
 ## Workshop Policies
 - The workshop will be affiliated with UbiComp / ISWC 2025, to be held in Espoo, Finland. 
 - Workshop papers will be included in the UbiComp/ISWC Adjunct Proceedings, which will be included in the ACM Digital Library as part of the UbiComp conference supplemental proceedings. 
-- The correct template for submission is a double-column Word Submission Template or a double-column LaTeX Template. The maximum paper length is 5 pages, including references. Please see https://www.ubicomp.org/ubicomp-iswc-2025/authors/formatting/ for more details on submission format and templates. 
-- Submit your papers via PCS https://new.precisionconference.com/submissions
-- Each accepted workshop paper requires at least one author attending the workshop and UbiComp/ISWC 2025 in-person.
+- The correct template for submission is a double-column Word Submission Template or a double-column LaTeX Template. The maximum paper length is 5 pages, including references. Please see <https://www.ubicomp.org/ubicomp-iswc-2025/authors/formatting/> for more details on submission format and templates. 
+- Submit your papers via PCS <https://new.precisionconference.com/submissions>
+- Each accepted workshop paper requires at least one author attending the workshop and UbiComp/ISWC 2025 in person.
 
 ## Technical Programme Committee
 - TBA
