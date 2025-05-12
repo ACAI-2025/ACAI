@@ -51,8 +51,10 @@ We encourage submissions on a variety of topics, including but not limited to:
 - Each accepted workshop paper requires at least one author attending the workshop and UbiComp/ISWC 2025 in person.
 
 ## Technical Programme Committee
-- Luan Chen, Assistant professor, ETIS UMR8051, CY Cergy Paris Université, ENSEA, CNRS, France.
-- Bing Zhai, Assistant professor, Computer and Information Sciences, Northumbria University, Newcastle upon Tyne, UK.
+- Bing Zhai, Northumbria University, Newcastle upon Tyne, UK.
+- Luan Chen, ETIS UMR8051, CY Cergy Paris Université, ENSEA, CNRS, France.
+- Nihan Kahraman, Yildiz University, Istanbual, Turkey.
+- Quintino Francesco Lotito, University of Trento, Italy.
 - TBA
 
 ## Organisers 
