@@ -53,6 +53,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 ## Technical Programme Committee
 - Luan Chen, Assistant professor, ETIS UMR8051, CY Cergy Paris Université, ENSEA, CNRS, France.
 - Bing Zhai, Assistant professor, Computer and Information Sciences, Northumbria University, Newcastle upon Tyne, UK.
+- TBA
 
 ## Organisers 
 
