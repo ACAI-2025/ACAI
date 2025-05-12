@@ -26,7 +26,7 @@ We encourage submissions on a variety of topics, including but not limited to:
   - Distributed learning and probabilistic reasoning: techniques for enabling systems to monitor, analyze, and adapt to their surroundings.
   - Self-monitoring and self-evaluation: metacognitive models for performance monitoring and adaptation.
   - Emergent awareness in collectives: collaborative awareness in distributed systems, including robotic swarms and IoT networks.
--Applications of Aware Systems 
+- Applications of Aware Systems 
   - Smart environments: self-aware buildings, smart homes, and offices that adapt to user needs and sentiments. 
   - Healthcare: Health monitoring systems with contextual awareness and adaptive decision-making. 
   - Industry: Autonomous systems for industrial applications, including predictive maintenance and tool invention. 
