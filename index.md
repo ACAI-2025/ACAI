@@ -50,6 +50,12 @@ We encourage submissions on a variety of topics, including but not limited to:
 - Submit your papers via PCS: <https://new.precisionconference.com/submissions>
 - Each accepted workshop paper requires at least one author attending the workshop and UbiComp/ISWC 2025 in person.
 
+
+## Advisory Committee 
+- Daqing Zhang, Institut Polytechnique de Paris, France / Peking University, China.
+- Stephan Sigg, Aalto University, Finland.
+
+
 ## Technical Programme Committee
 - Bing Zhai, Northumbria University, Newcastle upon Tyne, UK.
 - Luan Chen, ETIS UMR8051, CY Cergy Paris Université, ENSEA, CNRS, France.
