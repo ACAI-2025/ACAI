@@ -56,6 +56,8 @@ We encourage submissions on a variety of topics, including but not limited to:
 - Luis A. Leiva, University of Luxembourg, Luxembourg.
 - Nihan Kahraman, Yildiz University, Istanbual, Turkey.
 - Quintino Francesco Lotito, University of Trento, Italy.
+- Siqi Wang, Sorbonne Université, France.
+- Yan Liu, Northwestern Polytechnical University, China.
 - TBA
 
 ## Organisers 
