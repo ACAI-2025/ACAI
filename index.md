@@ -61,6 +61,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 - Luan Chen, ETIS UMR8051, CY Cergy Paris Université, ENSEA, CNRS, France.
 - Luis A. Leiva, University of Luxembourg, Luxembourg.
 - Manel Gasulla Forner, Universitat Politènica de Catalunya, Spain.
+- Martin Andraud, UCLouvain, Belgium.
 - Nihan Kahraman, Yildiz University, Istanbual, Turkey.
 - Quintino Francesco Lotito, University of Trento, Italy.
 - Siqi Wang, Sorbonne Université, France.
