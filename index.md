@@ -38,7 +38,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 
 
 ## Important dates
- - Submission deadline: June 22, 2025
+ - Submission deadline: June 29, 2025
  - Notification: July 20, 2025
  - Camera-ready: July 27, 2025
  - Workshop: 12 October 2025
