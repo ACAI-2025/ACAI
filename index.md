@@ -41,7 +41,7 @@ We encourage submissions on a variety of topics, including but not limited to:
  - Submission deadline: ~~June 29, 2025~~ July 07, 2025
  - Notification: July 20, 2025
  - Camera-ready: July 27, 2025
- - Workshop: 12 October 2025
+ - Workshop: 13 October 2025
  
 ## Workshop Policies
 - The workshop will be affiliated with UbiComp / ISWC 2025, to be held in Espoo, Finland. 
