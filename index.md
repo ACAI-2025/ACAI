@@ -55,10 +55,10 @@ We encourage submissions on a variety of topics, including but not limited to:
 * **Time:** 08:30 - 09:45 CET
 * **Location:** Room 137, Otakaari 1, 02150 Espoo, Finland          
 * **Zoom Link:** [Click here to join the workshop](https://aalto.zoom.us/j/63647168697)
----
+
 ### Agenda
 
-| Time Slot (EEST)  | Topic / Activity                                           | 
+| Time Slot (EEST)  | ACAI Workshop                                      | 
 | ----------------- | ---------------------------------------------------------- | 
 | 08:30 - 08:35     | **Welcome & Introduction**  | 
 | 08:35 - 09:10     | **Keynote: Giovanni Iacca** |                                         
