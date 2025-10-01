@@ -58,12 +58,12 @@ We encourage submissions on a variety of topics, including but not limited to:
 
 ### Agenda
 
-| Time Slot (EEST)  | ACAI Workshop                                      | 
+|                        | ACAI Workshop                                              | 
 | ---------------------- | ---------------------------------------------------------- | 
 | 08:30 - 08:35          | **Welcome & Introduction**  | 
 | 08:35 - 09:10          | **Keynote: Giovanni Iacca** |                                        
-| 09:10 - 09:25          | **Paper presentation: Murat Taskiran, "Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness"** | 
-| 09:25 - 09:40          | **Paper presentation: Amir Fereshtian, "Read-Range Extension with Semi-Passive Tags Powered by PV Cells"**| 
+| 09:10 - 09:25          | **Paper presentation: Murat Taskiran** <br> Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness | 
+| 09:25 - 09:40          | **Paper presentation: Amir Fereshtian** <br> Read-Range Extension with Semi-Passive Tags Powered by PV Cells| 
 | 09:40 - 09:45          | **Wrap-up & Closing** |
 
 
