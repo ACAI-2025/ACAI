@@ -60,9 +60,9 @@ We encourage submissions on a variety of topics, including but not limited to:
 
 | Time Slot (EEST)  | Topic / Activity                                           | 
 | ----------------- | ---------------------------------------------------------- | 
-| 08:30 - 08:35     | **Welcome & Introduction** <br> _Goals for the day_        | 
-| 08:35 - 09:10     | **Keynote: Giovanni Iacca** <br> _Pipelines, jobs, and stages_ |                                         
-| 09:10 - 09:25     | **Paper presentation: Murat Taskiran, "Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness"** <br> _Variables, rules, and templates_ | 
+| 08:30 - 08:35     | **Welcome & Introduction**  | 
+| 08:35 - 09:10     | **Keynote: Giovanni Iacca** |                                         
+| 09:10 - 09:25     | **Paper presentation: Murat Taskiran, "Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness"** | 
 | 09:25 - 09:40     | **Paper presentation: Amir Fereshtian, "Read-Range Extension with Semi-Passive Tags Powered by PV Cells"**| 
 | 09:40 - 09:45     | **Wrap-up & Closing** |
 
