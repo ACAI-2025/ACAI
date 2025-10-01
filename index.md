@@ -53,18 +53,18 @@ We encourage submissions on a variety of topics, including but not limited to:
 ## Workshop Schedule
 * **Date:** Monday, October 13, 2025
 * **Time:** 08:30 - 09:45 CET
-* **Location:** Room 137, Otakaari 1, 02150 Espoo, Finland          
-* **Zoom Link:** [Click here to join the workshop](https://aalto.zoom.us/j/63647168697)
+* **Location:** Room 137, Otakaari 1, 02150 Espoo, Finland
+* **Zoom Link:** <https://aalto.zoom.us/j/63647168697>
 
 ### Agenda
 
 | Time Slot (EEST)  | ACAI Workshop                                      | 
-| ----------------- | ---------------------------------------------------------- | 
-| 08:30 - 08:35     | **Welcome & Introduction**  | 
-| 08:35 - 09:10     | **Keynote: Giovanni Iacca** |                                         
-| 09:10 - 09:25     | **Paper presentation: Murat Taskiran, "Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness"** | 
-| 09:25 - 09:40     | **Paper presentation: Amir Fereshtian, "Read-Range Extension with Semi-Passive Tags Powered by PV Cells"**| 
-| 09:40 - 09:45     | **Wrap-up & Closing** |
+| ---------------------- | ---------------------------------------------------------- | 
+| 08:30 - 08:35          | **Welcome & Introduction**  | 
+| 08:35 - 09:10          | **Keynote: Giovanni Iacca** |                                        
+| 09:10 - 09:25          | **Paper presentation: Murat Taskiran, "Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness"** | 
+| 09:25 - 09:40          | **Paper presentation: Amir Fereshtian, "Read-Range Extension with Semi-Passive Tags Powered by PV Cells"**| 
+| 09:40 - 09:45          | **Wrap-up & Closing** |
 
 
 ## Advisory Committee 
