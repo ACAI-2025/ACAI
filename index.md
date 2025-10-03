@@ -74,7 +74,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 | :------------- | :----------------------------------------------------------------------------------------------------------------- |
 | **10:15-10:20** | Welcome & Introduction                                                                                             |
 | **10:20-11:00** | Keynote: Michalis Vakalellis <br> *Business Modelling Approaches* |
-| **11:00-11:40** | Keynote: Michalis Vakalellis <br> *Potential for Productization and Commercialization of Technologies* |
+| **11:00-11:40** | Keynote: Adant Technologies Inc. <br> *Potential for Productization and Commercialization of Technologies* |
 | **11:40-11:45** | Closing     
 
 
