@@ -65,7 +65,8 @@ We encourage submissions on a variety of topics, including but not limited to:
 | 09:10 - 09:25          | **Paper presentation: Murat Taskiran** <br> Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness | 
 | 09:25 - 09:40          | **Paper presentation: Amir Fereshtian** <br> Read-Range Extension with Semi-Passive Tags Powered by PV Cells| 
 | 09:40 - 09:45          | **Wrap-up & Closing** |
-| ---------------------- | ---------------------------------------------------------- | 
+
+
 |                        | Awareness Inside Portfolio Event                           | 
 | ---------------------- | ---------------------------------------------------------- | 
 | 10:15 - 10:20          | **Welcome & Introduction**  | 
