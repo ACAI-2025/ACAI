@@ -52,27 +52,30 @@ We encourage submissions on a variety of topics, including but not limited to:
 
 ## Workshop Schedule
 * **Date:** Monday, October 13, 2025
-* **Time:** 08:30 - 09:45 CET
+* **Time:** 08:30 - 11:45 CET
 * **Location:** Room 137, Otakaari 1, 02150 Espoo, Finland
 * **Zoom Link:** <https://aalto.zoom.us/j/63647168697>
 
 ### Agenda
 
-|                        | ACAI Workshop                                              | 
-| ---------------------- | ---------------------------------------------------------- | 
-| 08:30 - 08:35          | **Welcome & Introduction**  | 
-| 08:35 - 09:10          | **Keynote: Giovanni Iacca** |                                        
-| 09:10 - 09:25          | **Paper presentation: Murat Taskiran** <br> Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness | 
-| 09:25 - 09:40          | **Paper presentation: Amir Fereshtian** <br> Read-Range Extension with Semi-Passive Tags Powered by PV Cells| 
-| 09:40 - 09:45          | **Wrap-up & Closing** |
+### Session 1: ACAI Workshop
 
+| Time           | Topic                                                                                                     |
+| :------------- | :-------------------------------------------------------------------------------------------------------- |
+| **08:30-08:35** | Welcome & Introduction                                                                                    |
+| **08:35-09:10** | Keynote: Giovanni Iacca                                                                                   |
+| **09:10-09:25** | Paper presentation: Murat Taskiran <br> *Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness* |
+| **09:25-09:40** | Paper presentation: Amir Fereshtian <br> *Read-Range Extension with Semi-Passive Tags Powered by PV Cells* |
+| **09:40-09:45** | Wrap-up & Closing                                                                                         |
 
-|                        | Awareness Inside Portfolio Event                           | 
-| ---------------------- | ---------------------------------------------------------- | 
-| 10:15 - 10:20          | **Welcome & Introduction**  | 
-| 10:20 - 11:00          | **Keynote: Michalis Vakalellis** <br> Business Modelling Approaches |                                        
-| 11:00 - 11:40          | **Keynote: Michalis Vakalellis** <br> Potential for Productization and Commercialization of Technologies |        
-| 11:40 - 11:45          | **Closing**| 
+### Session 2: Awareness Inside Portfolio Event
+
+| Time           | Topic                                                                                                              |
+| :------------- | :----------------------------------------------------------------------------------------------------------------- |
+| **10:15-10:20** | Welcome & Introduction                                                                                             |
+| **10:20-11:00** | Keynote: Michalis Vakalellis <br> *Business Modelling Approaches* |
+| **11:00-11:40** | Keynote: Michalis Vakalellis <br> *Potential for Productization and Commercialization of Technologies* |
+| **11:40-11:45** | Closing     
 
 
 ## Advisory Committee 
