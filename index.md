@@ -63,7 +63,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 | Time           | Topic                                                                                                     |
 | :------------- | :-------------------------------------------------------------------------------------------------------- |
 | **08:30-08:35** | Welcome & Introduction                                                                                    |
-| **08:35-09:10** | Keynote: Giovanni Iacca                                                                                   |
+| **08:35-09:10** | Keynote: Giovanni Iacca <br> *Leveraging Awareness in Federated Learning and Tiny Machine Learning* |
 | **09:10-09:25** | Paper presentation: Murat Taskiran <br> *Federated Learning for Human Activity Recognition with Environmental and Subject-Level Awareness* |
 | **09:25-09:40** | Paper presentation: Amir Fereshtian <br> *Read-Range Extension with Semi-Passive Tags Powered by PV Cells* |
 | **09:40-09:45** | Wrap-up & Closing                                                                                         |
@@ -74,7 +74,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 | :------------- | :----------------------------------------------------------------------------------------------------------------- |
 | **10:15-10:20** | Welcome & Introduction                                                                                             |
 | **10:20-11:00** | Keynote: Michalis Vakalellis <br> *From Research to Market: Business Modeling & Commercialization* |
-| **11:00-11:40** | Keynote: Adant Technologies Inc. <br> *Potential for Productization and Commercialization of Technologies* |
+| **11:00-11:40** | Keynote: Adant Technologies Inc. <br> *Communication and sensing in residential and retail applications* |
 | **11:40-11:45** | Closing     
 
 
