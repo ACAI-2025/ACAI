@@ -74,7 +74,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 | :------------- | :----------------------------------------------------------------------------------------------------------------- |
 | **10:15-10:20** | Welcome & Introduction                                                                                             |
 | **10:20-11:00** | Keynote: Michalis Vakalellis <br> *From Research to Market: Business Modeling & Commercialization* |
-| **11:00-11:40** | Keynote: Adant Technologies Inc. <br> *Communication and sensing in residential and retail applications* |
+| **11:00-11:40** | Keynote: Daniele Piazza <br> *Communication and sensing in residential and retail applications* |
 | **11:40-11:45** | Closing     
 
 
