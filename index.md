@@ -68,7 +68,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 | **08:15-08:55** | Keynote: Giovanni Iacca <br> *Leveraging Awareness in Federated Learning and Tiny Machine Learning*  |
 | **08:55-09:00** | Wrap-up & Closing                                                                                         |
 
-### Session 2: Awareness Inside Portfolio Event
+### Session 2: 2nd Awareness Inside Portfolio Event
 
 | Time           | Topic                                                                                                              |
 | :------------- | :----------------------------------------------------------------------------------------------------------------- |
