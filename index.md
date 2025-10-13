@@ -53,7 +53,7 @@ We encourage submissions on a variety of topics, including but not limited to:
 ## Workshop Schedule
 * **Date:** Monday, October 13, 2025
 * **Time:** 08:30 - 11:45 CET
-* **Location:** Room 137, Otakaari 1, 02150 Espoo, Finland
+* **Location:** Room U134a, Otakaari 1, 02150 Espoo, Finland
 * **Zoom Link:** <https://aalto.zoom.us/j/63647168697>
 
 ### Agenda
