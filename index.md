@@ -73,8 +73,8 @@ We encourage submissions on a variety of topics, including but not limited to:
 | Time           | Topic                                                                                                              |
 | :------------- | :----------------------------------------------------------------------------------------------------------------- |
 | **09:30-09:35** | Welcome & Introduction                                                                                             |
-| **09:35-10:15** | Keynote: Michalis Vakalellis <br> *From Research to Market: Business Modeling & Commercialization* |
-| **10:15-10:55** | Keynote: Daniele Piazza <br> *Communication and sensing in residential and retail applications* |
+| **09:35-10:15** | Keynote: Michalis Vakalellis (Business Development Manager at AEGIS IT RESEARCH GmbH) <br> *From Research to Market: Business Modeling & Commercialization* |
+| **10:15-10:55** | Keynote: Daniele Piazza (Co-founder and CEO of Adant) <br> *Communication and sensing in residential and retail applications* |
 | **10:55-11:00** | Closing     
 
 
